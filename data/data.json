@@ -1,0 +1,113 @@
+{
+  "home": {
+    "id": 1,
+    "image": "assets/home_1.png",
+    "title": "collection B720",
+    "description": "Latest arrival of the new imported watches of the B720 series, with a modern and resistant design.",
+    "price": 1245
+  },
+  "products": [
+    {
+      "id": 1,
+      "image": "assets/product1.png",
+      "title": "Spirit rose",
+      "price": 1500
+    },
+    {
+      "id": 2,
+      "image": "assets/product2.png",
+      "title": "Khaki pilot",
+      "price": 1350
+    },
+    {
+      "id": 3,
+      "image": "assets/product3.png",
+      "title": "Khaki pilot",
+      "price": 1350
+    },
+    {
+      "id": 4,
+      "image": "assets/product4.png",
+      "title": "Khaki pilot",
+      "price": 1350
+    },
+    {
+      "id": 5,
+      "image": "assets/product5.png",
+      "title": "Towewew",
+      "price": 150
+    }
+  ],
+  "featureds": [
+    {
+      "id": 1,
+      "image": "assets/featured1.png",
+      "title": "Jazzmaster",
+      "price": 1050
+    },
+    {
+      "id": 2,
+      "image": "assets/featured2.png",
+      "title": "Ingersoll",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "image": "assets/featured3.png",
+      "title": "Rose gold",
+      "price": 890
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "date": "12 March. 2021",
+      "profileImg": "assets/",
+      "name": "Raul",
+      "position": "Director of Company",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore nesciunt quod ipsam porro beatae sit amet consectetur adipisicing elit. Labore nesciunt quod ipsam porro beatae corporis consequatur mollitia similique deserunt"
+    },
+    {
+      "id": 2,
+      "date": "12 August. 2020",
+      "profileImg": "assets/",
+      "name": "Kiki",
+      "position": "Director of Company",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore nesciunt quod ipsam porro beatae corporis consequatur mollitia similique deserunt consectetur"
+    },
+    {
+      "id": 3,
+      "date": "11 September. 2021",
+      "profileImg": "assets/",
+      "name": "Maulin",
+      "position": "Director of Company",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. sit amet consectetur adipisicing elit. Labore nesciunt quod ipsam porro beatae corporis consequatur mollitia similique "
+    }
+  ],
+  "newArrivals": [
+    {
+      "id": 1,
+      "image": "assets/new1.png",
+      "title": "Longines rose",
+      "price": 980
+    },
+    {
+      "id": 2,
+      "image": "assets/new2.png",
+      "title": "Jazzmaster",
+      "price": 1150
+    },
+    {
+      "id": 3,
+      "image": "assets/new3.png",
+      "title": "Dreyfuss gold",
+      "price": 750
+    },
+    {
+      "id": 4,
+      "image": "assets/new4.png",
+      "title": "Portuguese rose",
+      "price": 1590
+    }
+  ]
+}
